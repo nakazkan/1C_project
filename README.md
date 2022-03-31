@@ -41,7 +41,7 @@ No occurrences in text
 Находясь в папке с проектом, пропишите 
 mkdir build  
 cd build  
-cmake ..
+cmake ..  
 make  
 ./1C_project
 
