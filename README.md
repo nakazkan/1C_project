@@ -37,3 +37,11 @@ First occurrence in 26 position
 No occurrences in text  
 
 
+## Сборка проекта:
+Находясь в папке с проектом, пропишите 
+mkdir build  
+cd build  
+cmake ..
+make  
+./1C_project
+
